@@ -49,20 +49,19 @@
 ###
 
 <div data-importer="socials" align="left">
-  <a href="https://www.tu-enlace-aqui.com" target="_blank">
+  <a href="https://discord.gg/82E6rVWvMN" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="44" alt="discord logo">
   </a>
-  <a href="https://www.tu-enlace-aqui.com" target="_blank">
+  <a href="https://x.com/julitilingod69" target="_blank">
     <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="44" alt="twitter logo">
   </a>
-  <a href="https://www.tu-enlace-aqui.com" target="_blank">
+  <a href=""mailto:juliansant279@gmail.com"">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="44" alt="gmail logo">
   </a>
-  <a href="https://www.tu-enlace-aqui.com" target="_blank">
+  <a href="https://www.instagram.com/santanaassj/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="44" alt="instagram logo">
   </a>
-
-  <a href="https://www.tu-enlace-aqui.com" target="_blank">
+  <a href="https://open.spotify.com/user/5xlmf5s5c06m3r016r88db2mb?si=b1a660ff273e4fa5" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="44" alt="spotify logo">
   </a>
 </div>
